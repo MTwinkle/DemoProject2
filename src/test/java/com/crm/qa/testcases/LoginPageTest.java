@@ -23,6 +23,9 @@ public class LoginPageTest extends TestBase{
 		loginPage = new LoginPage();	
 		
 		System.out.println("twinkle");
+		System.out.println("twinkle2");
+		System.out.println("twinkle3");
+		System.out.println("twinkle4");
 	}
 	
 	@Test(priority=1)
