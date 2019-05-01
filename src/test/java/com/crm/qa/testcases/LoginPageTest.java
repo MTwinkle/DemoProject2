@@ -21,6 +21,8 @@ public class LoginPageTest extends TestBase{
 	public void setUp(){
 		initialization();
 		loginPage = new LoginPage();	
+		
+		System.out.println("twinkle");
 	}
 	
 	@Test(priority=1)
